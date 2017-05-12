@@ -1,6 +1,5 @@
 //
 //  DLNetworkTools.m
-//  DLNetEaseNews
 //
 //  Created by NowOrNever on 11/03/2017.
 //  Copyright © 2017 NowOrNever. All rights reserved.
