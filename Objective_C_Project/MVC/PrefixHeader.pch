@@ -22,14 +22,12 @@
 #define kScreenBounds [UIScreen mainScreen].bounds
 #define kNavBarHeight 64
 #define kTabBarHeight 49
-#define kUserName @"userInfoUserName"
-#define kPassWord @"userInfoPassWord"
-#define kNicName @"userInfoNickName"
+
 
 
 //导入 公共的类
-#import "Masonry.h"
-#import "YYModel.h"
+//#import "Masonry.h"
+//#import "YYModel.h"
 //#import <SVProgressHUD.h>
 //#import <SSKeychain.h>
 
